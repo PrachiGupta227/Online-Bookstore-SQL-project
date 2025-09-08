@@ -1,4 +1,4 @@
-# [Online-Bookstore-SQL-project]()
+# [Online-Bookstore-SQL-project](https://github.com/PrachiGupta227/Online-Bookstore-SQL-project/blob/main/project%20bookstore.sql)
 
 ## 📚 SQL Project: Online Bookstore
 
@@ -70,4 +70,4 @@ Applying aggregate functions (SUM, AVG, COUNT, MAX, MIN).
 
 Designing queries for real-world business problems like revenue, stock management, and customer analysis.
 
-/mnt/data/online_bookstore_er_diagram.png
+
