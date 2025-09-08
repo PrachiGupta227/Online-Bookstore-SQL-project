@@ -1,4 +1,4 @@
-# Online-Bookstore-SQL-project
+# [Online-Bookstore-SQL-project]()
 
 ## 📚 SQL Project: Online Bookstore
 
@@ -69,3 +69,5 @@ Using GROUP BY, HAVING, and ORDER BY for aggregation and filtering.
 Applying aggregate functions (SUM, AVG, COUNT, MAX, MIN).
 
 Designing queries for real-world business problems like revenue, stock management, and customer analysis.
+
+/mnt/data/online_bookstore_er_diagram.png
